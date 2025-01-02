@@ -156,6 +156,16 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
+    - https://pic.rmb.bdstatic.com/bjh/e269dda86b65dd1277d407bc22fa3e0f802.jpeg@h_1280
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/02.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/binamingjutianzi.jpg
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/chuyin.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/jiantian.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/jianxianwenqing.jpg
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/lishiya.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/shenlilinghua.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/xia.png
+    - https://github.com/Meng0016/photo/blob/main/wallpaper/xingnaijiang.jpg
     - https://source.fomal.cc/img/default_cover_14.webp
     # ...
 
@@ -224,10 +234,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/2.webp
+    - img: https://github.com/Meng0016/photo/blob/main/money/wechet.jpg
       link:
       text: 微信
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
+    - img: https://github.com/Meng0016/photo/blob/main/money/zhifb.jpg
       link:
       text: 支付宝
 
