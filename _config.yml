@@ -11,6 +11,10 @@ author: 长安归故里🥝
 language: zh-CN
 timezone: ''
 
+server:
+  port: 4100
+
+
 # abbrlink config
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
@@ -18,7 +22,7 @@ abbrlink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.fomal.cc/
+url: http://43.135.161.127/
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:

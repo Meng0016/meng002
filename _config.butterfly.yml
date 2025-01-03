@@ -156,17 +156,24 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
+    - https://img1.baidu.com/it/u=3885860684,42502697&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500
     - https://pic.rmb.bdstatic.com/bjh/e269dda86b65dd1277d407bc22fa3e0f802.jpeg@h_1280
     - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2F02.png
     - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/chuyin.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/jiantian.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/jianxianwenqing.jpg
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/lishiya.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/shenlilinghua.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/xia.png
-    - https://github.com/Meng0016/photo/blob/main/wallpaper/xingnaijiang.jpg
-    - https://source.fomal.cc/img/default_cover_14.webp
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fbinamingjutianzi.jpg
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fchuyin.png
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fjiantian.png
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fjianxianwenqing.jpg
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Flishiya.png
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fshenlilinghua.png
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fxia.png
+    - https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fxingnaijiang.jpg
+    - https://img2.baidu.com/it/u=2442705919,3497981688&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500
+    - https://img0.baidu.com/it/u=3847871407,3957886525&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500
+    - https://img0.baidu.com/it/u=45650134,630262401&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500
+    - https://img0.baidu.com/it/u=3071652276,1901653782&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500
+    - https://img0.baidu.com/it/u=131807180,3342768676&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800
+    - https://img0.baidu.com/it/u=528171018,4082905614&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500
     # ...
 
 # A simple 404 page
