@@ -1,6 +1,6 @@
 ---
 title: 友人帐
-date: 2022-08-10 15:39:15
+date: 2025-01-02 15:39:15
 type: "link"
 ---
 
@@ -8,37 +8,37 @@ type: "link"
 {% tabs link %}
 <!-- tab 🙋 butterfly-💭candy -->
 ```yml
-    - name: Fomalhaut🥝
-      link: https://www.fomal.cc/
-      avatar: https://www.fomal.cc/assets/avatar.webp
-      descr: Future is now 🍭🍭🍭
-      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+    - name: 长安归故里🥝
+      link: http://43.135.161.127:4100/
+      avatar: https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png
+      descr: 人性的背后是白云苍狗，愿你我都做生活的高手🍭🍭🍭
+      siteshot: https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fblog-shouye.jpg
 ```
 <!-- endtab -->
 
 <!-- tab 🥗Volantis -->
 ```JSON
 {
-  "title": "Fomalhaut🥝",
-  "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
-  "url": "https://www.fomal.cc/",
-  "avatar": "https://www.fomal.cc/assets/avatar.webp",
-  "description": "Future is now 🍭🍭🍭",
-  "keywords": "Fomalhaut🥝"
+  "title": "长安归故里🥝",
+  "screenshot": "https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fblog-shouye.jpg",
+  "url": "http://43.135.161.127:4100/",
+  "avatar": "https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png",
+  "description": "人性的背后是白云苍狗，愿你我都做生活的高手🍭🍭🍭",
+  "keywords": "长安归故里🥝"
 }
 ```
 <!-- endtab -->
 
 <!-- tab 🌴General -->
 
-| 名称       | 数值                                                         |
-| ---------- | ------------------------------------------------------------ |
-| 站点名称   | Fomalhaut🥝                                                   |
-| 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
-| 站点链接   | https://www.fomal.cc/                                        |
-| 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
-| 站点描述   | Future is now🍭🍭🍭                         |
-| 站点关键词 | Fomalhaut🥝,个人博客,代码                                     |
+| 名称       | 数值                                                       |
+| ---------- | ---------------------------------------------------------- |
+| 站点名称   | 长安归故里🥝                                                 |
+| 站点截图   | https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Fblog-shouye.jpg |
+| 站点链接   | http://43.135.161.127:4100/                                      |
+| 站长头像   | https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png                   |
+| 站点描述   | 人性的背后是白云苍狗，愿你我都做生活的高手🍭🍭🍭                         |
+| 站点关键词 | 长安归故里🥝                                     |
 
 <!-- endtab -->
 {% endtabs %}

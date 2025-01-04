@@ -242,10 +242,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://github.com/Meng0016/photo/blob/main/money/wechet.jpg
+    - img: https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/money%2Fwechet.jpg
       link:
       text: 微信
-    - img: https://github.com/Meng0016/photo/blob/main/money/zhifb.jpg
+    - img: https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/money%2Fzhifb.jpg
       link:
       text: 支付宝
 
@@ -465,7 +465,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2022
+    since: 2025
   custom_text:
   copyright: false # Copyright of theme and framework
 

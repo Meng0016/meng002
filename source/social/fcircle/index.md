@@ -1,6 +1,6 @@
 ---
 title: 朋友圈
-date: 2022-09-05 18:00:00
+date: 2025-01-02 18:00:00
 comments: false
 ---
 
@@ -40,19 +40,27 @@ comments: false
   }
 </style>
 
-<div id="hexo-circle-of-friends-root"></div>
-<script>
-    let UserConfig = {
-        // 替换为你的API!!!
-        private_api_url: 'https://fcircle.fomal.cc/',
-        // 点击加载更多时，一次最多加载几篇文章，默认10
-        page_turning_number: 12,
-        // 头像加载失败时，默认头像地址
-        error_img: '/assets/r1.jpg',
-        // 进入页面时第一次的排序规则
-        sort_rule: 'created'
-    }
-</script>
-<link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/mainColor/heoMainColor.css">
-<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/app.min.js"></script>
-<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/bundle.js"></script>
+[//]: # ()
+[//]: # (<div id="hexo-circle-of-friends-root"></div>)
+
+[//]: # (<script>)
+
+[//]: # (    let UserConfig = {)
+
+[//]: # (        private_api_url: 'https://fcircle.fomal.cc/',)
+
+[//]: # (        page_turning_number: 12,)
+
+[//]: # (        error_img: '/assets/r1.jpg',)
+
+[//]: # (        sort_rule: 'created')
+
+[//]: # (    })
+
+[//]: # (</script>)
+
+[//]: # (<link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/mainColor/heoMainColor.css">)
+
+[//]: # (<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/app.min.js"></script>)
+
+[//]: # (<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/bundle.js"></script>)
