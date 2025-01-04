@@ -5,7 +5,36 @@ background: url(https://pic.rmb.bdstatic.com/bjh/240407/1308a14fc6acd32301fedb45
 aplayer: true
 comments: false
 ---
-<center>
+{%
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<meting-js
+	server="tencent"
+	type="playlist"
+	id="9085386461">
+</meting-js>
 
-[//]: # (<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//https://music.163.com/#/playlist?id=3002287912&auto=1&height=66"></iframe>)
-</center>
+<div
+  id="aplayer"
+  data-id="9085386461"
+  data-server="tencent"
+  data-type="playlist"
+  data-fixed="false"
+  data-listFolded="false"
+  data-autoplay="false"
+  data-loop="all"
+  data-order="list"
+></div>
+<script>
+export default {
+  data() {
+    return {};
+  },
+  mounted() {
+    const ap = new APlayer({
+      container: document.getElementById("aplayer"),
+    });
+  }
+}
+</script>
