@@ -5,7 +5,7 @@ background: url(https://pic.rmb.bdstatic.com/bjh/240407/1308a14fc6acd32301fedb45
 aplayer: true
 comments: false
 ---
-{%
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
