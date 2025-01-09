@@ -1,66 +1,26 @@
 ---
 title: 朋友圈
 date: 2025-01-02 18:00:00
+type: artitalk
 comments: false
 ---
+<head>
+  <script src="https://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+</head>
+  <body>
+      <script>
+        var img = "https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg"; 
+        var appID = "4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI";
+        var appKEY = "ujIldthF23AVHvOLlslhN9ag";
+        var per = "5"; 
+        var username = "mengzh";
+        var placeholder1="只有mengzh才能评论哦"; 
+        var placeholder2="没有密码，不能评论！"; 
+        var lazy = 1; 
+        var bgimg = "https://gitee.com/cungudafa/source/raw/master/img/gif/Sitich/Sitich16.gif"; 
+      </script>
+      <div id="lazy"></div>
+      <div id="artitalk"></div>
+      <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+  </body>
 
-<style>
-  #cf-container {
-    background: transparent !important;
-  }
-  .cf-article .cf-article-title:hover {
-    color: #f4f4f4 !important;
-  }
-  .cf-img-avatar {
-    opacity: .4 !important;
-  }
-  .cf-article-author:hover {
-    background: var(--theme-color) !important;
-  }
-  #cf-more:hover {
-    background: var(--theme-color) !important;
-  }
-  .cf-overshow p a:hover {
-    color: #f4f4f4 !important;
-  }
-  .cf-article {
-    transition: transform linear 0.3s;
-  }
-  .cf-article:hover {
-    transform: scale(1.05);
-    box-shadow: 0 5px 10px 8px #07111b29;
-  }
-  .cf-article {
-    border-radius: 15px !important;
-    border: 1px solid #a5a5a5ee !important;
-  }
-  ::selection {
-  background: var(--theme-color) !important;
-  color: #f4f4f4 !important;
-  }
-</style>
-
-[//]: # ()
-[//]: # (<div id="hexo-circle-of-friends-root"></div>)
-
-[//]: # (<script>)
-
-[//]: # (    let UserConfig = {)
-
-[//]: # (        private_api_url: 'https://fcircle.fomal.cc/',)
-
-[//]: # (        page_turning_number: 12,)
-
-[//]: # (        error_img: '/assets/r1.jpg',)
-
-[//]: # (        sort_rule: 'created')
-
-[//]: # (    })
-
-[//]: # (</script>)
-
-[//]: # (<link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/mainColor/heoMainColor.css">)
-
-[//]: # (<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/app.min.js"></script>)
-
-[//]: # (<script type="text/javascript" src="https://cdn1.tianli0.top/gh/zhheo/JS-Heo@master/moments5/bundle.js"></script>)

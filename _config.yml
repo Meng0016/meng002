@@ -14,6 +14,20 @@ timezone: ''
 server:
   port: 80
 
+#看板娘
+live2d:
+  enable: true        # 开启插件
+  scriptFrom: local   # 脚本来源，这里以本地为例
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false       # 是否仅替换live2d标签，不注入所有页面
+  model:
+    use: live2d-widget-model-hibiki   # 示例模型名称
+  display:
+    position: right   # 显示位置
+    width: 150        # 宽度
+    height: 300       # 高度
 
 # abbrlink config
 abbrlink:
