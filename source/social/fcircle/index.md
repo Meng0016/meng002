@@ -5,15 +5,25 @@ type: artitalk
 comments: false
 ---
 
-<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
-<div id="artitalk_main"></div>
-<script>
-  new Artitalk({
-    serverURL: 'https://4vdz8bxr.api.lncldglobal.com',
-    appId: '4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI',
-    appKey: 'ujIldthF23AVHvOLlslhN9ag'
-  });
-</script>
+
+
+[//]: # (<script type="text/javascript" src="https://unpkg.com/artitalk"></script>)
+
+[//]: # (<div id="artitalk_main"></div>)
+
+[//]: # (<script>)
+
+[//]: # (  new Artitalk&#40;{)
+
+[//]: # (    serverURL: 'https://4vdz8bxr.api.lncldglobal.com',)
+
+[//]: # (    appId: '4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI',)
+
+[//]: # (    appKey: 'ujIldthF23AVHvOLlslhN9ag')
+
+[//]: # (  }&#41;;)
+
+[//]: # (</script>)
 
 
 [//]: # (img: 'https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg',)
