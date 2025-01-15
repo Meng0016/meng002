@@ -4,74 +4,56 @@ date: 2025-01-02 18:00:00
 type: artitalk
 comments: false
 ---
+## 一位涉世未深的小孩儿—长安归故里🥝
+
+### 自我介绍
+<div><img align="right" alt="GIF" src="https://mengtencent-1314015467.cos.na-siliconvalley.myqcloud.com/wallpaper%2Favatar-shenli.png" width="300" height="100%" /></div>
+
+
+- 大家好，我是ChangAn，来自河北唐山
+- 目前是一名小厂苦难打工人
+- 对Java、前端、Linux等等感兴趣
+- 欢迎光临我的小站，一起学习，一起进步
+- 我的Github：[点击这里](https://github.com/Meng0016/)
+----------------------------------------------------------------------------------------
+### 2025年1月14日  星期三
+#### “ 下班！ ”
+![](./photo/xiaban.jpg)
 
 
 
-[//]: # (<script type="text/javascript" src="https://unpkg.com/artitalk"></script>)
-
-[//]: # (<div id="artitalk_main"></div>)
-
-[//]: # (<script>)
-
-[//]: # (  new Artitalk&#40;{)
-
-[//]: # (    serverURL: 'https://4vdz8bxr.api.lncldglobal.com',)
-
-[//]: # (    appId: '4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI',)
-
-[//]: # (    appKey: 'ujIldthF23AVHvOLlslhN9ag')
-
-[//]: # (  }&#41;;)
-
-[//]: # (</script>)
+### 2025年1月8日  星期三
+#### “ 新余，到了！ ”
+![](./photo/xinyu.jpg)
 
 
-[//]: # (img: 'https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg',)
 
-[//]: # (per: '5',)
+### 2025年1月4日  星期六
+#### “ 麻辣香锅！ ”
+![](./photo/malaxiangguo.jpg)
 
-[//]: # (username: 'mengzh',)
 
-[//]: # (placeholder1: '只有mengzh才能评论哦',)
+### 2024年12月31日  星期二
+#### “ 跨年加班！ ”
+![](./photo/kuanianjiaban.jpg)
 
-[//]: # (placeholder2: '没有密码，不能评论！',)
 
-[//]: # (bgimg: 'https://gitee.com/cungudafa/source/raw/master/img/gif/Sitich/Sitich16.gif',)
-[//]: # (<head>)
+### 2024年11月2日  星期六
+#### “ 秋意渐浓 ”
+![](./photo/qiutian.jpg)
 
-[//]: # (  <script src="https://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>)
 
-[//]: # (</head>)
-  
+### 2024年9月30日  星期一
+#### “ 黑云压城城欲摧 ”
+![](./photo/heiyun.jpg)
 
-[//]: # (    <script type="text/javascript" src="https://unpkg.com/artitalk"></script>)
 
-[//]: # (      <script>)
 
-[//]: # (        var serverURL = "https://4vdz8bxr.api.lncldglobal.com"; )
+### 2024年9月21日  星期六
+#### “ 麦子熟了几千次，人民万岁第一次 ”
+![](./photo/renminwansui.jpg)
 
-[//]: # (        var img = "https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg"; )
 
-[//]: # (        var appID = "4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI";)
 
-[//]: # (        var appKEY = "ujIldthF23AVHvOLlslhN9ag";)
-
-[//]: # (        var per = "5"; )
-
-[//]: # (        var username = "mengzh";)
-
-[//]: # (        var placeholder1="只有mengzh才能评论哦"; )
-
-[//]: # (        var placeholder2="没有密码，不能评论！"; )
-
-[//]: # (        var lazy = 1; )
-
-[//]: # (        var bgimg = "https://gitee.com/cungudafa/source/raw/master/img/gif/Sitich/Sitich16.gif"; )
-
-[//]: # (      </script>)
-
-[//]: # (      <div id="lazy"></div>)
-
-[//]: # (      <div id="artitalk"></div>)
 
 
