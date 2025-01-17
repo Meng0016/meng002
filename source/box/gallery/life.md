@@ -24,7 +24,6 @@
 ![](./life/23.jpg)
 ![](./life/24.jpg)
 ![](./life/25.jpg)
-![](./life/26.jpg)
 ![](./life/27.jpg)
 ![](./life/28.jpg)
 ![](./life/29.jpg)
