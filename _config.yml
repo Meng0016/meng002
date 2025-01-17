@@ -87,6 +87,14 @@ math:
     config:
       # MathJax config
 
+#artitalk:
+#  enable: true
+#  appId: 4VDz8BXRr4zbbHLiXtUfKd0k-MdYXbMMI
+#  appKey: ujIldthF23AVHvOLlslhN9ag
+#  path: /social/fcicle
+#  js: https://cdn.jsdelivr.net/npm/artitalk
+#  option:
+#  front_matter:
 
 # 音乐插件
 aplayer:
